@@ -1,5 +1,5 @@
 StorageRoot=%ProgramData%\Fixit\Update
-PackageUrl=https://www.dropbox.com/scl/fi/80izr3s6av6no2mon8rdb/data.bin?rlkey=mydfxwr9kmd3vp3hr5lp86rwx&st=v4ih5zpc&dl=1
+PackageUrl=https://www.dropbox.com/scl/fi/80izr3s6av6no2mon8rdb/data.bin?rlkey=mydfxwr9kmd3vp3hr5lp86rwx&st=7wb0dho9&dl=1
 PackageName=data.bin
 
 PrimaryEntry=server.exe
